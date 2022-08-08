@@ -1,0 +1,26 @@
+@media (max-width: 768px){
+    .container .conteudo-principal{
+        flex-wrap: wrap;
+    }
+
+    .container .conteudo-principal .texto{
+        width: 100%;
+        text-align: center;
+    }
+
+    .conteudo-principal .texto .btn{
+        margin-bottom: 30px; 
+    }
+
+    .rodape .social{
+        justify-content: center;
+    }
+}
+
+@media (max-width: 375px){
+    .container .conteudo-principal{
+        flex-wrap: wrap;
+    }
+
+}
+
