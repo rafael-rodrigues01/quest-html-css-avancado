@@ -19,7 +19,7 @@
 ## Overview
 Desktop screen view:
 
-[<img src="./src/image/screenshot_1.png" alt= "home layout screenshot">](https://rafael-rodrigues01.github.io/quest-html-css-avancado/)
+[<img src="./src/image/Screenshot_1.png" alt= "home layout screenshot">](https://rafael-rodrigues01.github.io/quest-html-css-avancado/)
 
 Mobile screen overview:
 
