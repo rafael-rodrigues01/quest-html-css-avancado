@@ -39,7 +39,7 @@ Mobile screen overview:
 - My biggest difficulty was making the page responsive
 
 ## Contact
-- LinkedIn - [Rafael Rodrigues](https://github.com/rafael-rodrigues01)
+- Linkedin - [Rafael Rodrigues](https://github.com/rafael-rodrigues01)
 
 ## Thanks
 
